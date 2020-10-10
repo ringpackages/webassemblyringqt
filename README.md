@@ -1,7 +1,7 @@
-# AndroidRingQt
+# WebassemblyRingQt
 
-AndroidRingQt package for the Ring programming language
+WebassemblyRingQt package for the Ring programming language
 
 ## Install
 
-	ringpm install androidringqt
+	ringpm install webassemblyringqt
